@@ -1,0 +1,102 @@
+@font-face{
+	font-family:HyperYooWesh; 
+	src: url("fuentes/hyperyoowesh/HyperYooWeshRegular.ttf");
+	
+	
+}
+body{
+	background-color:#f0e3d8;
+	background-image:url("imagenes/fondo7.png");
+	
+
+}
+h1{
+	font-family:HyperYooWesh;
+	text-align:center;
+	background-color:white;
+	color:#877869;
+	font-size:60px;
+	border-style:solid;
+	
+}
+p{
+	font-family:Cambria;
+	margin-left:20px;
+	margin-bottom:20px;
+	margin-top:20px;
+	margin-left:5%;
+	margin-right:5%;
+	font-size:20px;
+	line-height:30px;
+}
+img{
+	display:block;
+	 margin:auto;
+	  margin-bottom:15px;
+	  
+}
+
+ul{
+	font-family;Cambria;
+	margin-top:20px;
+	margin-left:5%;
+	margin-right:5%;
+	font-size:20px;
+}
+
+h2{
+	font-family:HyperYooWesh;
+	color:#877869;
+	margin-left:20px;
+	font-size:30px;
+	margin-top:20px;
+	margin-left:5%;
+	margin-right:5%;
+}
+table{
+	color:black;
+    margin-left:7%;
+    text-align:center;
+	background-color:#ccb29b;
+ }
+
+.img{
+	display:inline;
+	margin-left:150px;
+	border-style:dashed;
+	border-color:#877869;
+}
+.img2{
+	display:inline;
+	margin-left:220px;
+	border-style:dashed;
+	border-color:#877869;
+}
+.img3{
+	
+	border-style:dashed;
+	border-color:#877869;
+}
+
+h3{
+	font-family:Cambria;
+	margin-top:20px;
+	margin-left:5%;
+	margin-right:5%;
+}
+ 
+ 
+ .img5{
+	  margin:auto;
+	  border-style:dashed;
+	border-color:#877869;
+  }
+ .flecha{
+	  margin-left:20px;
+  }
+  
+ .menu{
+		  margin-left:10px;
+		  color:#c75050;
+	  }
+	  
